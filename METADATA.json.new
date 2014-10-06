@@ -1,0 +1,33 @@
+{
+  "name": "Lily Script One",
+  "designer": "Julia Petretta",
+  "license": "OFL",
+  "visibility": "Sandbox",
+  "category": "Display",
+  "size": 20248,
+  "fonts": [
+    {
+      "name": "Lily Script One",
+      "style": "normal",
+      "weight": 400,
+      "filename": "LilyScriptOne-Regular-TTF.ttf",
+      "postScriptName": "LilyScriptOne-Regular",
+      "fullName": "Lily Script One",
+      "copyright": "Copyright (c) 2012, Julia Petretta (www.juliapetretta.com julia.petretta@googlemail.com), with Reserved Font Name 'Lily'"
+    },
+    {
+      "name": "Lily Script One",
+      "style": "normal",
+      "weight": 400,
+      "filename": "LilyScriptOne-Regular.ttf",
+      "postScriptName": "LilyScriptOne-Regular",
+      "fullName": "Lily Script One",
+      "copyright": "Copyright (c) 2012, Julia Petretta (www.juliapetretta.com julia.petretta@googlemail.com), with Reserved Font Name 'Lily'"
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2013-06-05"
+}
